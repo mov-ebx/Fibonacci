@@ -27,11 +27,18 @@ According to Wikipedia (it's a better explanation than I could write):
 
 ## What languages are done?
 
+- [Ada](src/Ada/fibonacci.adb)
+- [Bash](src/Bash/fibonacci.sh)
+- [BASIC](src/BASIC/fibonacci.bas)
+- [C](src/C/fibonacci.c)
+- [C#](src/C%23/Fibonacci.cs)
+- [C++](src/C++/fibonacci.cpp)
+- [Clojure](src/Clojure/fibonacci.clj)
 - [COBOL](src/COBOL/fibonacci.cob)
 - [D](src/D/fibonacci.d)
 - [Elixir](src/Elixir/fibonacci.ex)
 - [Erlang](src/Erlang/fibonacci.erl)
-- [F#](src/F#/Fibonacci.fs)
+- [F#](src/F%23/Fibonacci.fs)
 - [Fortran](src/Fortran/fibonacci.f)
 - [Go](src/Go/fibonacci.go)
 - [Groovy](src/Groovy/Fibonacci.groovy)
