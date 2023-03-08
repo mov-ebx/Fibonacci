@@ -23,7 +23,6 @@ According to Wikipedia (it's a better explanation than I could write):
 - Dart
 - Objective-C
 - Carbon
-- PHP
 - Assembly
 
 ## What languages are done?
@@ -47,6 +46,7 @@ According to Wikipedia (it's a better explanation than I could write):
 - [Octave](src/Octave/fibonacci.m)
 - [Pascal](src/Pascal/fibonacci.pas)
 - [Perl](src/Perl/fibonacci.pl)
+- [Php](src/Php/fibonacci.php)
 - [PowerShell](src/PowerShell/fibonacci.ps1)
 - [Python](src/Python/fibonacci.py)
 - [R](src/R/fibonacci.r)
