@@ -1,6 +1,7 @@
 # Fibonacci
 
 The fibonacci sequence, done in as many programming languages that I can think of.
+I do this as a hobby, however it can be useful to compare the syntaxes between different languages and finding the right one for you to learn!
 
 Keep in mind, that I don't know most these languages, and the code is most likely not the most efficient and best possible. I wrote these using whatever I could scrape from their documentation.
 
@@ -22,7 +23,6 @@ According to Wikipedia (it's a better explanation than I could write):
 - Swift
 - Dart
 - Objective-C
-- Carbon
 - Assembly
 
 ## What languages are done?
@@ -33,6 +33,7 @@ According to Wikipedia (it's a better explanation than I could write):
 - [C](src/C/fibonacci.c)
 - [C#](src/C%23/Fibonacci.cs)
 - [C++](src/C++/fibonacci.cpp)
+- [Carbon](src/Carbon/fibonacci.carbon)
 - [Clojure](src/Clojure/fibonacci.clj)
 - [COBOL](src/COBOL/fibonacci.cob)
 - [D](src/D/fibonacci.d)
