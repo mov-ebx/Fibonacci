@@ -16,5 +16,5 @@ fn Main() -> i32 {
     x = x + 1;
   }
 
-  return 0;
+  return b;
 }

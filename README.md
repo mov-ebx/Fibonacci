@@ -20,9 +20,7 @@ According to Wikipedia (it's a better explanation than I could write):
 
 ## What languages are planned?
 
-- Swift
 - Dart
-- Objective-C
 - Assembly
 
 ## What languages are done?
@@ -51,10 +49,11 @@ According to Wikipedia (it's a better explanation than I could write):
 - [Lisp](src/Lisp/fibonacci.lsp)
 - [Lua](src/Lua/fibonacci.lua)
 - [Nim](src/Nim/fibonacci.nim)
+- [Objective-C](src/ObjectiveC/fibonacci.mm)
 - [Octave](src/Octave/fibonacci.m)
 - [Pascal](src/Pascal/fibonacci.pas)
 - [Perl](src/Perl/fibonacci.pl)
-- [Php](src/Php/fibonacci.php)
+- [PHP](src/PHP/fibonacci.php)
 - [PowerShell](src/PowerShell/fibonacci.ps1)
 - [Python](src/Python/fibonacci.py)
 - [R](src/R/fibonacci.r)
@@ -63,4 +62,6 @@ According to Wikipedia (it's a better explanation than I could write):
 - [Scala](src/Scala/Fibonacci.scala)
 - [Scratch](src/Scratch/README.md)
 - [Smalltalk](src/Smalltalk/fibonacci.st)
+- [Swift](src/Swift/fibonacci.swift)
 - [TypeScript](src/TypeScript/fibonacci.ts)
+- [VisualBasic](src/VisualBasic/Fibonacci.vb)
