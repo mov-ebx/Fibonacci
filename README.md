@@ -20,7 +20,6 @@ According to Wikipedia (it's a better explanation than I could write):
 
 ## What languages are planned?
 
-- Dart
 - Assembly
 
 ## What languages are done?
@@ -35,6 +34,7 @@ According to Wikipedia (it's a better explanation than I could write):
 - [Clojure](src/Clojure/fibonacci.clj)
 - [COBOL](src/COBOL/fibonacci.cob)
 - [D](src/D/fibonacci.d)
+- [Dart](src/Dart/fibonacci.dart)
 - [Elixir](src/Elixir/fibonacci.ex)
 - [Erlang](src/Erlang/fibonacci.erl)
 - [F#](src/F%23/Fibonacci.fs)
@@ -60,7 +60,7 @@ According to Wikipedia (it's a better explanation than I could write):
 - [Ruby](src/Ruby/fibonacci.ru)
 - [Rust](src/Rust/fibonacci.rs)
 - [Scala](src/Scala/Fibonacci.scala)
-- [Scratch](src/Scratch/README.md)
+- [Scratch](src/Scratch/)
 - [Smalltalk](src/Smalltalk/fibonacci.st)
 - [Swift](src/Swift/fibonacci.swift)
 - [TypeScript](src/TypeScript/fibonacci.ts)
